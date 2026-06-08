@@ -10,7 +10,7 @@
 ## Domain
 
 <!-- What domain did you choose? Why is this knowledge valuable and hard to find through official channels? -->
-
+This system covers student reviews of Computer Science professors at Hunter College, sourced from RateMyProfessors. This knowledge is valuable because official course descriptions and the college website tell you nothing about a professor's actual teaching style, how fair their exams are, how responsive they are to students, or what grade to realistically expect. Students rely on word-of-mouth and informal reviews to make course registration decisions, but that information is scattered and difficult to come up with a decision. This system solves this problem by making it queryable in plain language and gives a objective opinion based on students' informal reviews on RateMyProfessors.
 ---
 
 ## Documents
@@ -20,16 +20,19 @@
 
 | # | Source | Description | URL or location |
 |---|--------|-------------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
+| 1 | Melissa Lynch | CS professor reviews — 45 student reviews, CSCI127/CSCI160 | https://www.ratemyprofessors.com/professor/2505090 |
+| 2 | Saad Mneimneh | CS professor reviews — 80 student reviews, CSCI150/STAT319 | https://www.ratemyprofessors.com/professor/926045 |
+| 3 | Jaime Canizales | CS professor reviews — 25 student reviews, CSCI265/CSCI335 | https://www.ratemyprofessors.com/professor/2505175 |
+| 4 | Eric Schweitzer | CS professor reviews — 65 student reviews | https://www.ratemyprofessors.com/professor/257192 |
+| 5 | Katherine St. John | CS professor reviews — 40 student reviews | https://www.ratemyprofessors.com/professor/2324096 |
+| 6 | Justin Tojeira | CS professor reviews — 60 student reviews | https://www.ratemyprofessors.com/professor/1660967 |
+| 7 | Tong Yi | CS professor reviews — 50 student reviews | https://www.ratemyprofessors.com/professor/2634841 |
+| 8 | Pavel Shostak | CS professor reviews — 55 student reviews | https://www.ratemyprofessors.com/professor/1823870 |
+| 9 | Tiziana Ligorio | CS professor reviews — 60 student reviews | https://www.ratemyprofessors.com/professor/815879 |
+| 10 | Sven Dietrich | CS professor reviews — 38 student reviews | https://www.ratemyprofessors.com/professor/2674099 |
+| 11 | Mahdi Makki | CS professor reviews — 38 student reviews | https://www.ratemyprofessors.com/professor/2157279 |
+| 12 | Oyewole Oyekoya | CS professor reviews — 27 student reviews | https://www.ratemyprofessors.com/professor/2558461 |
+| 13 | Ioannis Stamos | CS professor reviews — 26 student reviews | https://www.ratemyprofessors.com/professor/64427 |
 
 ---
 

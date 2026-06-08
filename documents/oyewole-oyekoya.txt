@@ -1,0 +1,117 @@
+Professor: Oyewole Oyekoya
+Department: Computer Science
+College: Hunter College
+Overall Rating: 2.8/5
+Would Take Again: 45%
+Average Difficulty: 3.6/5
+Source: https://www.ratemyprofessors.com/professor/2558461
+
+============================================================
+
+[Review 1]
+Quality: 4.0/5 | Difficulty: 4.0/5
+CSCI49383 May 15th, 2025 Grade: Not sure yet Pretty fun class, you don't really need a VR headset (Quest2/3), but it makes development for the project harder. Also has seminars that require you to look into specific topics (some that are out of date), but they were pretty interesting. Heavy workload for the class(project mostly) but would recommend it if you are interested in VR development.
+
+[Review 2]
+Course: CS235 | Date: Oct 29th, 2024 | Quality: 2.0/5 | Difficulty: 4.0/5 | Grade: Not sure yet
+He follows a textbook and basically reads of it. Class is well organized however, I never found his lectures helpful. IDK if it's cuz it was a morning class but anything he said never stuck with me especially 235 being a very important class. I would take someone else's class!!!
+
+[Review 3]
+Course: CSCI235 | Date: Sep 5th, 2024 | Quality: 1.0/5 | Difficulty: 3.0/5 | Grade: Incomplete
+He just read the slides and he didn't stop to check that the students understood what he was explaining, so avoid him taking this course with a different professor.
+
+[Review 4]
+Quality: 5.0/5 | Difficulty: 2.0/5
+Computer IconCSCI49383 Aug 13th, 2024 Taken asynchronously in the Summer. For the projects, you basically need to teach yourself to use Unity for VR, which I found fun! The exams were drawn from the lectures, but some of the content isn't the most up to date. The professor is pretty understanding and fair. Overall, this class was a great experience and I'd highly recommend.
+
+[Review 5]
+Course: CS235 | Date: Jul 29th, 2023 | Quality: 1.0/5 | Difficulty: 4.0/5 | Grade: B
+please don't take this professor. he will teach u Bullshot, and what he did in the class is all read the slide.
+
+[Review 6]
+Quality: 5.0/5 | Difficulty: 1.0/5
+CSCI39595 Jul 17th, 2022 Imagine complaining about your own poor performance on a RMP page. You are lame. Get good kid. If you spent less time making excuses maybe you wouldn't have done so bad. This guy is a winner. What can I say. He is super kind and I love him. Laughs at jokes and tries to be fun. Gotta respect that. And the class is super easy so get on it.
+
+[Review 7]
+Quality: 1.0/5 | Difficulty: 5.0/5
+Computer IconCSCI39595 Jun 21st, 2022 for sure do not take him for VR reality class even if it's an online class because that class is an unuseful class and you will not get a good grade he does know how to teach, his exams do not make any sense, and you are going to do a lot of work with your team works, and even if you attend all classes on time he will not give you full credit
+
+[Review 8]
+Quality: 2.0/5 | Difficulty: 2.0/5
+Computer IconCS235 Jan 19th, 2022 Weird class. The prof is more cs than swe but if you know the distinction that's fine. The exams were not very constructive. Final had a ton of postfix/prefix questions where there should at most have been 2.
+
+[Review 9]
+Quality: 1.0/5 | Difficulty: 5.0/5
+Computer IconCSCI235 Dec 30th, 2021
+
+[Review 10]
+Quality: 4.0/5 | Difficulty: 4.0/5
+Computer IconCSCI235 Dec 27th, 2021 He pays too much attention to attendance and participation. You have to be prepared to read outside of class. He is very hands-off with the projects and leaves it to the TAs.
+
+[Review 11]
+Quality: 1.0/5 | Difficulty: 5.0/5
+Computer IconCSCI235 Dec 26th, 2021 By far the worst CS professor I have taken, and I took plenty believe me. He just reads his slides and thats it. He doesn't code, mostly is the TA. Class is a mess, you learn more from YouTube than from his lecture. If you can avoid, take other professor if not just pray final is not mandatory to pass or else its gg. He is heartless.
+
+[Review 12]
+Quality: 1.0/5 | Difficulty: 3.0/5
+Computer IconCS135 Dec 25th, 2021 Inept with programming and can't answer specific questions; only vague answers causing a lot of research. Which is normal for CS, but I'd expect more from an instructor. This is one of the most important CS classes as the concepts are integral for success in this craft, so you'll be in trouble if you have him. Transfer colleges if you can.
+
+[Review 13]
+Quality: 4.0/5 | Difficulty: 4.0/5
+Computer IconCSCI235 Dec 22nd, 2021 Hes pretty lenient at grading and works with the students to meet somewhere in the middle. Quizzes and final are exactly on the material he teaches. The lectures are a bit boring since he basically reads from the textbook, but they teach you what you need to know. Youll have to read the textbook to pass the course. Overall a good choice
+
+[Review 14]
+Quality: 3.0/5 | Difficulty: 3.0/5
+Computer IconCSCI235 Dec 22nd, 2021 Grade: Not sure yet An ok instructor. Not the best at explaining concepts, but his slides, which were basically the important parts from the textbook, were good. Tests weren't the best. Most of the semester we focused on data structures, but his final kept nagging on about big O notation. On top of that, wording on the test was awful & he wont clarify if u ask him to
+
+[Review 15]
+Quality: 5.0/5 | Difficulty: 4.0/5
+Computer IconCSCI39545 Feb 11th, 2021 I recommend the class. but you should be prepared to do some work on your own. There are many unity tutorials that can help with this. I advise to use the office hours for questions regarding seminars and project. Final exam was easier this time around compared to 235 the semester before.
+
+[Review 16]
+Quality: 2.0/5 | Difficulty: 4.0/5
+CSCI39594 Dec 30th, 2020 Took him for VR and Advanced Vis tools. Graded projects harshly in both and took points off of our presentation because someone's camera stopped working while they were speaking. Really nonsensical to take off points for that when the webcam being on adds nothing to the presentation. It's a pandemic, maybe be more understanding of tech difficulties
+
+[Review 17]
+Quality: 2.0/5 | Difficulty: 4.0/5
+CSCI39594 Dec 24th, 2020 He gave us a group project with RANDOM people. That by itself should speak to what you can expect from this class. He graded the group project terribly for Vis (not so much for VR), without any clear and concise grading instructions. And can you please tell me why attendance is mandatory if you make the lectures available to view, make up your mind
+
+[Review 18]
+Quality: 1.0/5 | Difficulty: 5.0/5
+Computer IconCS39594 Dec 23rd, 2020 Worked hard whole semester and attended all classes, yet ended up with grades similar to people who did no work at all and never attended class. Harsh grader. Gives vague instructions.
+
+[Review 19]
+Quality: 5.0/5 | Difficulty: 4.0/5
+CSCI39595 Dec 23rd, 2020 Took VR and Vis classes. Both were great! It was amazing to learn more about XR and visualization tools/methods. All my questions and concerns regarding the material and group work were addressed promptly. Would definitely recommend prof. Oyekoya to everyone who wants to learn and get good practice!
+
+[Review 20]
+Quality: 5.0/5 | Difficulty: 4.0/5
+CSCI39594 Dec 22nd, 2020 If you are prepared to do the work, you will get top grades. The lecture review class was really a practice session for the exam. He hinted the question. The grading criteria for the group project was in the first lecture slides, so attendance and participation matters.
+
+[Review 21]
+Quality: 2.0/5 | Difficulty: 4.0/5
+CSCI39545 Dec 21st, 2020 VR and Vis class are both heavily based on group work(good luck with that). Graded assignments late. Submission criteria for final project was unclear until a week before it was due. Funny how he's an unfair/harsh grader with strict policies when his teaching method is reading from the slides. I'd avoid completely unless you have no other option
+
+[Review 22]
+Quality: 5.0/5 | Difficulty: 3.0/5
+CSCI39594 Oct 29th, 2020 Took this in Fall 2019. Really interesting class.
+
+[Review 23]
+Quality: 5.0/5 | Difficulty: 3.0/5
+Computer IconCSCI235 Aug 27th, 2020 Lectures were organized considering the unexpected transfer to online classes due to COVID 19. If you don't read the subject, you'll struggle and find the materials daunting; I wouldn't blame the professor for this. There is only so much that can be taught in a semester!!
+
+[Review 24]
+Course: CSCI235 | Date: Aug 24th, 2020 | Quality: 1.0/5 | Difficulty: 5.0/5 | Grade: D
+This is a professor likes to read the power point and assigns the homework non-relative to the book. Good luck everyone, right now I transfer to another college because I don't like Hunter anymore.
+
+[Review 25]
+Course: CSCI235 | Date: Jun 12th, 2020 | Quality: 2.0/5 | Difficulty: 3.0/5 | Grade: B
+Despite doing similarly to my friends in the class, they all got As and I got a grade closer to someone who didnt even submit a project. His test making is awful and his wording is ambiguous. When I emailed him he ghosted me. Gave surprise bonus points that boosted an entire letter grade for those who just happened to attend that day.
+
+[Review 26]
+Quality: 5.0/5 | Difficulty: 3.0/5
+CSCI23500 May 26th, 2020 Great professor who went above and beyond for students given the COVID-19 situation. He doesn't want to fail anyone, so work hard and give an honest effort, and have something to show for it. Chances are you'll get a good grade in the course if you know your stuff, but you're allowed to make some mistakes and be ok. Thankful for him as a prof
+
+[Review 27]
+Quality: 1.0/5 | Difficulty: 1.0/5
+Computer IconCSCI235 May 22nd, 2020 He gives us the hardest projects to do and never help us how to prepare our final during COVID-19
