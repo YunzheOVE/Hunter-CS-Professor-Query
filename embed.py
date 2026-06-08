@@ -170,8 +170,8 @@ if __name__ == "__main__":
     # Test with 3 evaluation plan queries
     test_queries = [
         "What do students say about Saad Mneimneh's exam difficulty in CSCI150?",
-        "What are the main complaints students have about Sven Dietrich?",
         "Does Melissa Lynch respond to student emails?",
+        "Which CS professor at Hunter College is considered the easiest to get a good grade with?"
     ]
 
     for query in test_queries:
