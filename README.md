@@ -100,6 +100,7 @@ Latency(3): local model is limited by CPU speed, while an API model adds network
 **Query 1:** "What do students say about Saad Mneimneh exam difficulty in CSCI150?"
 
 Top chunks returned:
+
   [1] Saad Mneimneh | saad-mneimneh.txt | distance: 0.286 [good]
       Class was very hard and confusing , homeworks and tests were torture , but the very good test curve is the only reason I passed
 
@@ -122,6 +123,7 @@ Why relevant: All 5 chunks are from the same professor and course, directly desc
 **Query 2:** "Does Melissa Lynch respond to student emails?"
 
 Top chunks returned:
+
   [1] Melissa Lynch | melissa-lynch.txt | distance: 0.2266 [good]
       She dont answer her emails. Shes either late 15-30 mins or doesn't even show up. Shes difficult to work with as a professor.
 
@@ -144,6 +146,7 @@ Why relevant: "respond to emails" is a specific recurring complaint in Lynch's r
 **Query 3:** "Which CS professor at Hunter College is considered the easiest to get a good grade with?"
 
 Top chunks returned:
+
   [1] Jaime Canizales | jaime-canizales.txt | distance: 0.2271 [good]
       He is one of the best professor in Hunter. He is one reason I am still in CS major. I feel like he understands student's problem so as long as you put your effort, he grades you. As long as you do all homework and study his lectures, you will get an ...
 
