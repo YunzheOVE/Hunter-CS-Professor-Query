@@ -154,7 +154,7 @@ Top chunks returned:
       The 1st time you take Eric, you'll think he's hot garbag at teaching. The 2nd time, you'll realize how much better he is compared to most CS profs at Hunter. The course was fair but difficult. Focus on quizzes (60% of your grade!!). You'll likely hav...
 
   [4] Melissa Lynch | melissa-lynch.txt | distance: 0.3187 [good]
-      She's the best!! Honestly the best CS professor at Hunter! :)
+      She's the best!! Honestly the best CS professor at Hunter!
 
   [5] Justin Tojeira | justin-tojeira.txt | distance: 0.324 [good]
       to keep it short, justin is one of the best cs professors at hunter but he SHOULD NOT be teaching 335. like everyone else said, hes EXTREMELY unorganized, late with grades/autograders/project deadlines, and had us do 2 PROJECTS + study for the final ...
