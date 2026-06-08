@@ -231,7 +231,10 @@ def parse_reviews(lines, reviews_start_idx):
                     i += 1
                     continue
 
-                content_lines.append(cur)
+                # Strip RMP icon artifact that appears on some copy-pasted reviews
+                cur = cur.replace("Computer Icon", "").strip()
+                if cur:
+                    content_lines.append(cur)
                 i += 1
 
             # Separate real review text from tag labels

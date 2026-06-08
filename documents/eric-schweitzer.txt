@@ -198,7 +198,7 @@ If you read the textbook and do the homework problems, you will be fine. He pluc
 
 [Review 48]
 Quality: 4.0/5 | Difficulty: 3.0/5
-Computer IconCSCI150 Apr 28th, 2022 He was not that bad. You just had to study for the quizzes, most of which are light and more like a fun puzzle than a quiz.
+CSCI150 Apr 28th, 2022 He was not that bad. You just had to study for the quizzes, most of which are light and more like a fun puzzle than a quiz.
 
 [Review 49]
 Course: CS265 | Date: Dec 27th, 2021 | Quality: 1.0/5 | Difficulty: 5.0/5 | Grade: C+
@@ -214,43 +214,43 @@ Really cool professor, passionate about the subject. He is very nice and funny a
 
 [Review 52]
 Quality: 3.0/5 | Difficulty: 3.0/5
-Computer IconCSCI150 May 29th, 2021 Do the Homework problems, and you will be fine; no need to go to the lecture. Eric is a tough grader, and his quizzes/exams are not the easiest.
+CSCI150 May 29th, 2021 Do the Homework problems, and you will be fine; no need to go to the lecture. Eric is a tough grader, and his quizzes/exams are not the easiest.
 
 [Review 53]
 Quality: 5.0/5 | Difficulty: 4.0/5
-Computer IconCSCI150 May 22nd, 2021 Mr. Schweitzer is huge on quizzes. Thats the only way he grades, a quiz practically every class day. Textbook reading is essential. The hardest part about this class is the time he gives us to do the quizzes. He expects us to print out a pdf, write out answers, scan the paper and then upload it as a pdf, all within 10 minutes. Beware.
+CSCI150 May 22nd, 2021 Mr. Schweitzer is huge on quizzes. Thats the only way he grades, a quiz practically every class day. Textbook reading is essential. The hardest part about this class is the time he gives us to do the quizzes. He expects us to print out a pdf, write out answers, scan the paper and then upload it as a pdf, all within 10 minutes. Beware.
 
 [Review 54]
 Quality: 4.0/5 | Difficulty: 4.0/5
-Computer IconCSCI150 May 6th, 2021 Grade: Not sure yet He looks tough but he's a fair grader. The class itself is hard but he gives a good curve. He's funny and well educated on the material. If you read the textbook and practice the homework you'll be fine.
+CSCI150 May 6th, 2021 Grade: Not sure yet He looks tough but he's a fair grader. The class itself is hard but he gives a good curve. He's funny and well educated on the material. If you read the textbook and practice the homework you'll be fine.
 
 [Review 55]
 Quality: 5.0/5 | Difficulty: 4.0/5
-Computer IconCSCI150 May 4th, 2021 Professor Eric Schweitzer is a blessing. He makes discrete structures so easy and I feel prepared to major in computer science. If you cannot print, scan, and submit a pop-quiz in 10 minutes, then I don't know what to tell you. Would give this professor an 100 if I could.
+CSCI150 May 4th, 2021 Professor Eric Schweitzer is a blessing. He makes discrete structures so easy and I feel prepared to major in computer science. If you cannot print, scan, and submit a pop-quiz in 10 minutes, then I don't know what to tell you. Would give this professor an 100 if I could.
 
 [Review 56]
 Quality: 1.0/5 | Difficulty: 3.0/5
-Computer IconCSCI150 May 2nd, 2021 Grade: Not sure yet This guy is a fine teacher (although you won't need him if you read the book), but his grading is horrible. You never know what form you need to give the answer in (sometimes it matters, sometimes it does not... and you can get different grade for answer to the same question at two different times). Pretty useless, anxiety inducing class.
+CSCI150 May 2nd, 2021 Grade: Not sure yet This guy is a fine teacher (although you won't need him if you read the book), but his grading is horrible. You never know what form you need to give the answer in (sometimes it matters, sometimes it does not... and you can get different grade for answer to the same question at two different times). Pretty useless, anxiety inducing class.
 
 [Review 57]
 Quality: 2.0/5 | Difficulty: 2.0/5
-Computer IconCSCI150 Mar 18th, 2021 Idiosyncratic man. We have no tests, only pop quizzes that he likes to taunt us with to "keep us on our toes." If you don't write the answer exactly the way he wants to see it, you get zero points. No such thing as partial credit. He has no sympathy or leeway for his students in the COVID era. He is funny-ish though, and the quizzes aren't hard
+CSCI150 Mar 18th, 2021 Idiosyncratic man. We have no tests, only pop quizzes that he likes to taunt us with to "keep us on our toes." If you don't write the answer exactly the way he wants to see it, you get zero points. No such thing as partial credit. He has no sympathy or leeway for his students in the COVID era. He is funny-ish though, and the quizzes aren't hard
 
 [Review 58]
 Quality: 1.0/5 | Difficulty: 5.0/5
-Computer IconCSCI150 Mar 10th, 2021 Grade: Not sure yet This man is the worst professor to be teaching this topic. He gives "surprise" quiz like we are a high school student. His handwriting is borderline graffiti. To you who are reading, I am sure you have no choice but to take him. I just wish you the best of luck, you can pass but you will be in pain & stressed through out the semester. Plz retire.
+CSCI150 Mar 10th, 2021 Grade: Not sure yet This man is the worst professor to be teaching this topic. He gives "surprise" quiz like we are a high school student. His handwriting is borderline graffiti. To you who are reading, I am sure you have no choice but to take him. I just wish you the best of luck, you can pass but you will be in pain & stressed through out the semester. Plz retire.
 
 [Review 59]
 Quality: 1.0/5 | Difficulty: 5.0/5
-Computer IconCS150 Mar 10th, 2021 I had to drop out because he is so outdated. We have do print, fill, scan and upload a pdf all within 10 minutes DURING A PANDEMIC. Take this class in another school if you can.
+CS150 Mar 10th, 2021 I had to drop out because he is so outdated. We have do print, fill, scan and upload a pdf all within 10 minutes DURING A PANDEMIC. Take this class in another school if you can.
 
 [Review 60]
 Quality: 1.0/5 | Difficulty: 5.0/5
-Computer IconCSCI150 Mar 1st, 2021 He gives pop quizzes with 10 mins to complete/upload. Doesn't matter if you know all the material, its almost impossible to submit on time. Doesn't answer email and avoids answering students. He takes no responsibility for his inadequacies.. Lots of self teaching. bad handwriting. He uses autograders which don't work 100% so you do bad. 0/0
+CSCI150 Mar 1st, 2021 He gives pop quizzes with 10 mins to complete/upload. Doesn't matter if you know all the material, its almost impossible to submit on time. Doesn't answer email and avoids answering students. He takes no responsibility for his inadequacies.. Lots of self teaching. bad handwriting. He uses autograders which don't work 100% so you do bad. 0/0
 
 [Review 61]
 Quality: 1.0/5 | Difficulty: 5.0/5
-Computer IconCSCI150 Feb 19th, 2021 Grade: Not sure yet - NO EXAMS TWENTY POP QUIZZES. - PDF POP QUIZZES 10 MIN EACH WITH 3 MIN PRINT-WRITE-UPLOAD TIME (TIME NONNEGOTIABLE AMID A PANDEMIC). - POP QUIZZES AUTOGRADED BY GRADESCOPE. - ONE UNIT/TXTBOOK CHAPTER PER CLASS. HIS WIFI GOES OUT AND ITS FINE BUT WHAT IF OUR WIFI GOES OUT DURING A QUIZ!!!
+CSCI150 Feb 19th, 2021 Grade: Not sure yet - NO EXAMS TWENTY POP QUIZZES. - PDF POP QUIZZES 10 MIN EACH WITH 3 MIN PRINT-WRITE-UPLOAD TIME (TIME NONNEGOTIABLE AMID A PANDEMIC). - POP QUIZZES AUTOGRADED BY GRADESCOPE. - ONE UNIT/TXTBOOK CHAPTER PER CLASS. HIS WIFI GOES OUT AND ITS FINE BUT WHAT IF OUR WIFI GOES OUT DURING A QUIZ!!!
 
 [Review 62]
 Course: CS150 | Date: Sep 29th, 2020 | Quality: 1.0/5 | Difficulty: 5.0/5 | Grade: A

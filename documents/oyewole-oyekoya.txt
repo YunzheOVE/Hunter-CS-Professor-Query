@@ -22,7 +22,7 @@ He just read the slides and he didn't stop to check that the students understood
 
 [Review 4]
 Quality: 5.0/5 | Difficulty: 2.0/5
-Computer IconCSCI49383 Aug 13th, 2024 Taken asynchronously in the Summer. For the projects, you basically need to teach yourself to use Unity for VR, which I found fun! The exams were drawn from the lectures, but some of the content isn't the most up to date. The professor is pretty understanding and fair. Overall, this class was a great experience and I'd highly recommend.
+CSCI49383 Aug 13th, 2024 Taken asynchronously in the Summer. For the projects, you basically need to teach yourself to use Unity for VR, which I found fun! The exams were drawn from the lectures, but some of the content isn't the most up to date. The professor is pretty understanding and fair. Overall, this class was a great experience and I'd highly recommend.
 
 [Review 5]
 Course: CS235 | Date: Jul 29th, 2023 | Quality: 1.0/5 | Difficulty: 4.0/5 | Grade: B
@@ -34,39 +34,39 @@ CSCI39595 Jul 17th, 2022 Imagine complaining about your own poor performance on 
 
 [Review 7]
 Quality: 1.0/5 | Difficulty: 5.0/5
-Computer IconCSCI39595 Jun 21st, 2022 for sure do not take him for VR reality class even if it's an online class because that class is an unuseful class and you will not get a good grade he does know how to teach, his exams do not make any sense, and you are going to do a lot of work with your team works, and even if you attend all classes on time he will not give you full credit
+CSCI39595 Jun 21st, 2022 for sure do not take him for VR reality class even if it's an online class because that class is an unuseful class and you will not get a good grade he does know how to teach, his exams do not make any sense, and you are going to do a lot of work with your team works, and even if you attend all classes on time he will not give you full credit
 
 [Review 8]
 Quality: 2.0/5 | Difficulty: 2.0/5
-Computer IconCS235 Jan 19th, 2022 Weird class. The prof is more cs than swe but if you know the distinction that's fine. The exams were not very constructive. Final had a ton of postfix/prefix questions where there should at most have been 2.
+CS235 Jan 19th, 2022 Weird class. The prof is more cs than swe but if you know the distinction that's fine. The exams were not very constructive. Final had a ton of postfix/prefix questions where there should at most have been 2.
 
 [Review 9]
 Quality: 1.0/5 | Difficulty: 5.0/5
-Computer IconCSCI235 Dec 30th, 2021
+CSCI235 Dec 30th, 2021
 
 [Review 10]
 Quality: 4.0/5 | Difficulty: 4.0/5
-Computer IconCSCI235 Dec 27th, 2021 He pays too much attention to attendance and participation. You have to be prepared to read outside of class. He is very hands-off with the projects and leaves it to the TAs.
+CSCI235 Dec 27th, 2021 He pays too much attention to attendance and participation. You have to be prepared to read outside of class. He is very hands-off with the projects and leaves it to the TAs.
 
 [Review 11]
 Quality: 1.0/5 | Difficulty: 5.0/5
-Computer IconCSCI235 Dec 26th, 2021 By far the worst CS professor I have taken, and I took plenty believe me. He just reads his slides and thats it. He doesn't code, mostly is the TA. Class is a mess, you learn more from YouTube than from his lecture. If you can avoid, take other professor if not just pray final is not mandatory to pass or else its gg. He is heartless.
+CSCI235 Dec 26th, 2021 By far the worst CS professor I have taken, and I took plenty believe me. He just reads his slides and thats it. He doesn't code, mostly is the TA. Class is a mess, you learn more from YouTube than from his lecture. If you can avoid, take other professor if not just pray final is not mandatory to pass or else its gg. He is heartless.
 
 [Review 12]
 Quality: 1.0/5 | Difficulty: 3.0/5
-Computer IconCS135 Dec 25th, 2021 Inept with programming and can't answer specific questions; only vague answers causing a lot of research. Which is normal for CS, but I'd expect more from an instructor. This is one of the most important CS classes as the concepts are integral for success in this craft, so you'll be in trouble if you have him. Transfer colleges if you can.
+CS135 Dec 25th, 2021 Inept with programming and can't answer specific questions; only vague answers causing a lot of research. Which is normal for CS, but I'd expect more from an instructor. This is one of the most important CS classes as the concepts are integral for success in this craft, so you'll be in trouble if you have him. Transfer colleges if you can.
 
 [Review 13]
 Quality: 4.0/5 | Difficulty: 4.0/5
-Computer IconCSCI235 Dec 22nd, 2021 Hes pretty lenient at grading and works with the students to meet somewhere in the middle. Quizzes and final are exactly on the material he teaches. The lectures are a bit boring since he basically reads from the textbook, but they teach you what you need to know. Youll have to read the textbook to pass the course. Overall a good choice
+CSCI235 Dec 22nd, 2021 Hes pretty lenient at grading and works with the students to meet somewhere in the middle. Quizzes and final are exactly on the material he teaches. The lectures are a bit boring since he basically reads from the textbook, but they teach you what you need to know. Youll have to read the textbook to pass the course. Overall a good choice
 
 [Review 14]
 Quality: 3.0/5 | Difficulty: 3.0/5
-Computer IconCSCI235 Dec 22nd, 2021 Grade: Not sure yet An ok instructor. Not the best at explaining concepts, but his slides, which were basically the important parts from the textbook, were good. Tests weren't the best. Most of the semester we focused on data structures, but his final kept nagging on about big O notation. On top of that, wording on the test was awful & he wont clarify if u ask him to
+CSCI235 Dec 22nd, 2021 Grade: Not sure yet An ok instructor. Not the best at explaining concepts, but his slides, which were basically the important parts from the textbook, were good. Tests weren't the best. Most of the semester we focused on data structures, but his final kept nagging on about big O notation. On top of that, wording on the test was awful & he wont clarify if u ask him to
 
 [Review 15]
 Quality: 5.0/5 | Difficulty: 4.0/5
-Computer IconCSCI39545 Feb 11th, 2021 I recommend the class. but you should be prepared to do some work on your own. There are many unity tutorials that can help with this. I advise to use the office hours for questions regarding seminars and project. Final exam was easier this time around compared to 235 the semester before.
+CSCI39545 Feb 11th, 2021 I recommend the class. but you should be prepared to do some work on your own. There are many unity tutorials that can help with this. I advise to use the office hours for questions regarding seminars and project. Final exam was easier this time around compared to 235 the semester before.
 
 [Review 16]
 Quality: 2.0/5 | Difficulty: 4.0/5
@@ -78,7 +78,7 @@ CSCI39594 Dec 24th, 2020 He gave us a group project with RANDOM people. That by 
 
 [Review 18]
 Quality: 1.0/5 | Difficulty: 5.0/5
-Computer IconCS39594 Dec 23rd, 2020 Worked hard whole semester and attended all classes, yet ended up with grades similar to people who did no work at all and never attended class. Harsh grader. Gives vague instructions.
+CS39594 Dec 23rd, 2020 Worked hard whole semester and attended all classes, yet ended up with grades similar to people who did no work at all and never attended class. Harsh grader. Gives vague instructions.
 
 [Review 19]
 Quality: 5.0/5 | Difficulty: 4.0/5
@@ -98,7 +98,7 @@ CSCI39594 Oct 29th, 2020 Took this in Fall 2019. Really interesting class.
 
 [Review 23]
 Quality: 5.0/5 | Difficulty: 3.0/5
-Computer IconCSCI235 Aug 27th, 2020 Lectures were organized considering the unexpected transfer to online classes due to COVID 19. If you don't read the subject, you'll struggle and find the materials daunting; I wouldn't blame the professor for this. There is only so much that can be taught in a semester!!
+CSCI235 Aug 27th, 2020 Lectures were organized considering the unexpected transfer to online classes due to COVID 19. If you don't read the subject, you'll struggle and find the materials daunting; I wouldn't blame the professor for this. There is only so much that can be taught in a semester!!
 
 [Review 24]
 Course: CSCI235 | Date: Aug 24th, 2020 | Quality: 1.0/5 | Difficulty: 5.0/5 | Grade: D
@@ -114,4 +114,4 @@ CSCI23500 May 26th, 2020 Great professor who went above and beyond for students 
 
 [Review 27]
 Quality: 1.0/5 | Difficulty: 1.0/5
-Computer IconCSCI235 May 22nd, 2020 He gives us the hardest projects to do and never help us how to prepare our final during COVID-19
+CSCI235 May 22nd, 2020 He gives us the hardest projects to do and never help us how to prepare our final during COVID-19

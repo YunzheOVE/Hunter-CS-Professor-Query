@@ -98,7 +98,7 @@ Great professor who not only does a good job teaching the material, but also enc
 
 [Review 23]
 Quality: 4.0/5 | Difficulty: 4.0/5
-Computer IconCS260 Nov 19th, 2024 Professor Shostak has a unique teaching style - if you stay engaged and take detailed notes, you can do well. The homeworks are interesting, and Unstuckstudy was a helpful study tool alongside the textbook. Overall, an accessible professor if you put in the effort.
+CS260 Nov 19th, 2024 Professor Shostak has a unique teaching style - if you stay engaged and take detailed notes, you can do well. The homeworks are interesting, and Unstuckstudy was a helpful study tool alongside the textbook. Overall, an accessible professor if you put in the effort.
 
 [Review 24]
 Course: CS260 | Date: Nov 13th, 2024 | Quality: 5.0/5 | Difficulty: 4.0/5 | Grade: B-
@@ -126,7 +126,7 @@ Probably the best professor in the CS department. Clear lectures, encourages stu
 
 [Review 30]
 Quality: 5.0/5 | Difficulty: 3.0/5
-Computer IconCS260 Apr 15th, 2024 His teaching style is amazing! If you want to pass, you would have to go to class. If you literally copy down what he says( if you miss something just raise your hand), you will 100% pass. His grading is very clear on how he wants it. No Partial Credit they say but he will give you some points for the right answer if you are close.
+CS260 Apr 15th, 2024 His teaching style is amazing! If you want to pass, you would have to go to class. If you literally copy down what he says( if you miss something just raise your hand), you will 100% pass. His grading is very clear on how he wants it. No Partial Credit they say but he will give you some points for the right answer if you are close.
 
 [Review 31]
 Course: CSCI260 | Date: Mar 1st, 2024 | Quality: 4.0/5 | Difficulty: 4.0/5 | Grade: C+
@@ -162,7 +162,7 @@ This is not a professor, and he is worse than any professor. He catches some stu
 
 [Review 39]
 Quality: 5.0/5 | Difficulty: 4.0/5
-Computer IconCSCI260 Jul 8th, 2023 Make sure you pay attention in his lectures because he wants you to answer his exams the way he wants it. Plus, sometimes the textbook has different views than his. This class was online so he was very strict on having camera on; I would say it is for the sole purpose of making sure students are paying attention instead of going on their phones!
+CSCI260 Jul 8th, 2023 Make sure you pay attention in his lectures because he wants you to answer his exams the way he wants it. Plus, sometimes the textbook has different views than his. This class was online so he was very strict on having camera on; I would say it is for the sole purpose of making sure students are paying attention instead of going on their phones!
 
 [Review 40]
 Course: CS340 | Date: May 22nd, 2023 | Quality: 5.0/5 | Difficulty: 2.0/5 | Grade: A+
@@ -226,4 +226,4 @@ Gives crazy projects then expects us to solve leetcode problems for tests the cl
 
 [Review 55]
 Quality: 1.0/5 | Difficulty: 1.0/5
-Computer IconCSCI235 May 7th, 2022 Thank you shostak! because of you, I cannot go to graduate school and change my major
+CSCI235 May 7th, 2022 Thank you shostak! because of you, I cannot go to graduate school and change my major

@@ -14,11 +14,11 @@ Very rude professor. 0 respect for students. Avoid taking.
 
 [Review 2]
 Quality: 4.0/5 | Difficulty: 2.0/5
-Computer IconCSCI499 May 27th, 2025 It was a pretty fun class. You work on a group project for the whole semester and one ethics assignment. Every week, you also have weekly team reports on the progress of your project. My only complaint is that I wish we had fewer lectures in the beginning and spent more time on the project. Sometimes, the work was a lot, but became more manageable.
+CSCI499 May 27th, 2025 It was a pretty fun class. You work on a group project for the whole semester and one ethics assignment. Every week, you also have weekly team reports on the progress of your project. My only complaint is that I wish we had fewer lectures in the beginning and spent more time on the project. Sometimes, the work was a lot, but became more manageable.
 
 [Review 3]
 Quality: 4.0/5 | Difficulty: 3.0/5
-Computer IconCS235 Dec 27th, 2024 While the lectures can be dry, Prof. Ligorio genuinely cares about students' success. The workload is manageable if you stay on top of it. I found Unstuckstudy and the free textbook really helpful for exam prep.
+CS235 Dec 27th, 2024 While the lectures can be dry, Prof. Ligorio genuinely cares about students' success. The workload is manageable if you stay on top of it. I found Unstuckstudy and the free textbook really helpful for exam prep.
 
 [Review 4]
 Course: CSCI235 | Date: Nov 13th, 2024 | Quality: 5.0/5 | Difficulty: 2.0/5 | Grade: B+
@@ -182,7 +182,7 @@ This class is very difficult given the teacher main goal is to go over slides. A
 
 [Review 44]
 Quality: 1.0/5 | Difficulty: 4.0/5
-Computer IconCSCI127 Dec 22nd, 2021 Grade: Not sure yet if you dont pass the final. you wont pass the class. meaning, all the work you put into the programming assignments (5 every week), code reviews (every two weeks), quizzes (every week) doesn't matter if you don't pass the final. also her lectures dont make sense and you're better off reading the lab and learning urself.
+CSCI127 Dec 22nd, 2021 Grade: Not sure yet if you dont pass the final. you wont pass the class. meaning, all the work you put into the programming assignments (5 every week), code reviews (every two weeks), quizzes (every week) doesn't matter if you don't pass the final. also her lectures dont make sense and you're better off reading the lab and learning urself.
 
 [Review 45]
 Course: CSCI127 | Date: Dec 21st, 2021 | Quality: 5.0/5 | Difficulty: 2.0/5
@@ -202,7 +202,7 @@ Bad professor doesnt teach at all and expects you to know things already. reads 
 
 [Review 49]
 Quality: 1.0/5 | Difficulty: 5.0/5
-Computer IconCSCI127 Nov 30th, 2021 Learning Python Is not that bad, however she makes it harder than it has to be. Class structure is disorganized. She is not helpful says to use the UTA's but sometimes even the UTA's themselves don't know what they are doing. Gradescope is trash. There are weekly quizzes and 5 assignments each week.
+CSCI127 Nov 30th, 2021 Learning Python Is not that bad, however she makes it harder than it has to be. Class structure is disorganized. She is not helpful says to use the UTA's but sometimes even the UTA's themselves don't know what they are doing. Gradescope is trash. There are weekly quizzes and 5 assignments each week.
 
 [Review 50]
 Course: CSCI127 | Date: Nov 23rd, 2021 | Quality: 1.0/5 | Difficulty: 5.0/5
@@ -214,7 +214,7 @@ This content is actually so easy: simple python stuff. Imagine someone making 1+
 
 [Review 52]
 Quality: 1.0/5 | Difficulty: 3.0/5
-Computer IconCSCI127 Nov 17th, 2021 Grade: Not sure yet Trust me, even TA is way better than her
+CSCI127 Nov 17th, 2021 Grade: Not sure yet Trust me, even TA is way better than her
 
 [Review 53]
 Course: CSCI127 | Date: Nov 15th, 2021 | Quality: 1.0/5 | Difficulty: 3.0/5
@@ -222,11 +222,11 @@ Poorly structured and time consuming
 
 [Review 54]
 Quality: 1.0/5 | Difficulty: 5.0/5
-Computer IconCSCI127 Nov 11th, 2021 Doesn't know how to teach and relies solely on her slides. Isn't helpful in anyway the TA's are the real teachers.
+CSCI127 Nov 11th, 2021 Doesn't know how to teach and relies solely on her slides. Isn't helpful in anyway the TA's are the real teachers.
 
 [Review 55]
 Quality: 1.0/5 | Difficulty: 4.0/5
-Computer IconCSCI127 Nov 11th, 2021 I feel like I learned more from code dot org in highschool. The entire class structure is more reliant on TAs than the Professor. I reached out to the professor and (while she did help sort of) she made it very clear that she didn't want to help me. Daily assignments, and you have to want to learn/teach yourself.
+CSCI127 Nov 11th, 2021 I feel like I learned more from code dot org in highschool. The entire class structure is more reliant on TAs than the Professor. I reached out to the professor and (while she did help sort of) she made it very clear that she didn't want to help me. Daily assignments, and you have to want to learn/teach yourself.
 
 [Review 56]
 Course: CSCI127 | Date: Jul 4th, 2021 | Quality: 1.0/5 | Difficulty: 4.0/5 | Grade: F
@@ -234,7 +234,7 @@ Just don't take her class, or you will regret it for your whole college life. Wo
 
 [Review 57]
 Quality: 1.0/5 | Difficulty: 5.0/5
-Computer IconCSCI127 Jun 16th, 2021 she just sits and reads slides that are reused every semester. your gonna have to self learn everything. and shes teaching deep learning in the spring? take it with someone that actually knows how to teach.
+CSCI127 Jun 16th, 2021 she just sits and reads slides that are reused every semester. your gonna have to self learn everything. and shes teaching deep learning in the spring? take it with someone that actually knows how to teach.
 
 [Review 58]
 Course: CSCI127 | Date: May 26th, 2021 | Quality: 2.0/5 | Difficulty: 4.0/5 | Grade: Rather not say
@@ -242,8 +242,8 @@ This is never the course for beginners. Not by any chance. It was a complete mes
 
 [Review 59]
 Quality: 1.0/5 | Difficulty: 4.0/5
-Computer IconCSCI127 May 26th, 2021 She does not know how to teach effectively. She just reads off of slides that we learn anyway from the labs. The lab ta's were great, though. Her final is extremely difficult compared to what she teaches during the classes, which is light and straightforward.
+CSCI127 May 26th, 2021 She does not know how to teach effectively. She just reads off of slides that we learn anyway from the labs. The lab ta's were great, though. Her final is extremely difficult compared to what she teaches during the classes, which is light and straightforward.
 
 [Review 60]
 Quality: 1.0/5 | Difficulty: 5.0/5
-Computer IconCSCI127 May 25th, 2021 Worst in all of Hunter. I had to take her for csc 127 and it was insane how much of a mess this entire course was. Like all other comments here, all she does is read off slides with little to no explanation. You have to do five programming assignments and a quiz every week. If you fail the final you fail the class. Stay away, she can't teach.
+CSCI127 May 25th, 2021 Worst in all of Hunter. I had to take her for csc 127 and it was insane how much of a mess this entire course was. Like all other comments here, all she does is read off slides with little to no explanation. You have to do five programming assignments and a quiz every week. If you fail the final you fail the class. Stay away, she can't teach.

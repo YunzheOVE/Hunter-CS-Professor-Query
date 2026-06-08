@@ -10,11 +10,11 @@ Source: https://www.ratemyprofessors.com/professor/2505175
 
 [Review 1]
 Course: CSCI335 | Date: Jul 7th, 2025 | Quality: 5.0/5 | Difficulty: 3.0/5 | Grade: Not sure yet
-jaime really is the best! he's literally an angel and is so understanding. im really gonna miss this class. he teaches amazing and so clearly, i wish this course was longer so i can just learn from him! material goes by fast so make sure to not slack. regardless, you'll learn so much since hes the best at explaining tough concepts clearly.
+jaime really is the best! he's literally an angel and is so understanding. im really gonna miss this class. he teaches amazing and so clearly, i wish this course was longer so i can just learn from him! material goes by fast so make sure to not slack. regardless, you'll learn so much since hes the best at explaining tough concepts clearly :)
 
 [Review 2]
 Course: CSCI335 | Date: Jul 18th, 2024 | Quality: 5.0/5 | Difficulty: 3.0/5 | Grade: A+
-Jaime is very smart and caring. I enjoyed his teaching style, he would always ask the class if we have any questions and take his time to explain. I appreciate it. He knows a lot and taught us about Docker and Makefile which I thought it's very useful. Wish the summer session were a bit longer, so we could learn more.
+Jaime is very smart and caring. I enjoyed his teaching style, he would always ask the class if we have any questions and take his time to explain. I appreciate it. He knows a lot and taught us about Docker and Makefile which I thought it's very useful. Wish the summer session were a bit longer, so we could learn more :)
 
 [Review 3]
 Course: CSCI335 | Date: Jul 17th, 2024 | Quality: 5.0/5 | Difficulty: 2.0/5 | Grade: B+
@@ -34,7 +34,7 @@ One, if not the best CS professors in Hunter, his lectures are clear and informa
 
 [Review 7]
 Quality: 5.0/5 | Difficulty: 1.0/5
-Computer IconCS16000 Aug 22nd, 2023 THE GOAT THE GOAT THE GOAT THE GOAT. NOT EVEN KIDDING HE IS THE BEST PROF AT HUNTER HANDS DOWN.
+CS16000 Aug 22nd, 2023 THE GOAT THE GOAT THE GOAT THE GOAT. NOT EVEN KIDDING HE IS THE BEST PROF AT HUNTER HANDS DOWN.
 
 [Review 8]
 Course: CSCI265 | Date: Jul 18th, 2023 | Quality: 5.0/5 | Difficulty: 2.0/5 | Grade: A
@@ -54,11 +54,11 @@ It was nice to have Prof. Jaime as a recitation instructor, providing a very rel
 
 [Review 12]
 Quality: 5.0/5 | Difficulty: 2.0/5
-Computer IconCSCI150 Sep 15th, 2021 Took him for cs150(discrete) during summer and he was the most laidback cs teacher ever. The tests and hw's always reflected the material we did in class and he explained the material really well.
+CSCI150 Sep 15th, 2021 Took him for cs150(discrete) during summer and he was the most laidback cs teacher ever. The tests and hw's always reflected the material we did in class and he explained the material really well.
 
 [Review 13]
 Quality: 4.0/5 | Difficulty: 2.0/5
-Computer IconCSCI12100 Dec 17th, 2020 Grade: Not sure yet Well, if you want an easy A with little work as possible take him. The class is 100 percent test based, so if you get a good grade on the exam, you'll pass. And even if you mess-up on one of his tests, email him and he'll give you a chance of re-do. He is super chill and downed to earth.
+CSCI12100 Dec 17th, 2020 Grade: Not sure yet Well, if you want an easy A with little work as possible take him. The class is 100 percent test based, so if you get a good grade on the exam, you'll pass. And even if you mess-up on one of his tests, email him and he'll give you a chance of re-do. He is super chill and downed to earth.
 
 [Review 14]
 Course: CSCI160 | Date: Sep 1st, 2020 | Quality: 5.0/5 | Difficulty: 1.0/5 | Grade: A+
@@ -70,19 +70,19 @@ He is one of the best professor in Hunter. He is one reason I am still in CS maj
 
 [Review 16]
 Quality: 5.0/5 | Difficulty: 1.0/5
-Computer IconCS160 Jul 28th, 2020 He is a legend. The most amazing professor you would ever come across. Knows how to respect, explains everything clearly and is a decent grader.
+CS160 Jul 28th, 2020 He is a legend. The most amazing professor you would ever come across. Knows how to respect, explains everything clearly and is a decent grader.
 
 [Review 17]
 Quality: 5.0/5 | Difficulty: 2.0/5
-Computer IconCSCI16000 Jul 27th, 2020 What can I say? Took Jaime's online class for the summer and I had no regrets. Laid-back, helpful, and very lenient with grading. I'd take his class again in a heartbeat.
+CSCI16000 Jul 27th, 2020 What can I say? Took Jaime's online class for the summer and I had no regrets. Laid-back, helpful, and very lenient with grading. I'd take his class again in a heartbeat.
 
 [Review 18]
 Quality: 4.0/5 | Difficulty: 1.0/5
-Computer IconCS160 Jul 13th, 2020 He is a legend. He is very cool and respectful.
+CS160 Jul 13th, 2020 He is a legend. He is very cool and respectful.
 
 [Review 19]
 Quality: 5.0/5 | Difficulty: 1.0/5
-Computer IconCSI160 Jul 11th, 2020 always take him for csci 265 and csci 160 or if u see his name in any other class, plz take him, he is the best professor, and i bet you wont regret.
+CSI160 Jul 11th, 2020 always take him for csci 265 and csci 160 or if u see his name in any other class, plz take him, he is the best professor, and i bet you wont regret.
 
 [Review 20]
 Quality: 5.0/5 | Difficulty: 3.0/5

@@ -146,11 +146,11 @@ CSCI39542 Mar 25th, 2022 Grade: Not sure yet Gives way too much work
 
 [Review 35]
 Quality: 5.0/5 | Difficulty: 1.0/5
-Computer IconCSCI39542 Feb 1st, 2022 I don't know what the fuss is about. I breezed my way through this class. She's respectful and sincere and I would take this class anytime again with her.
+CSCI39542 Feb 1st, 2022 I don't know what the fuss is about. I breezed my way through this class. She's respectful and sincere and I would take this class anytime again with her.
 
 [Review 36]
 Quality: 2.0/5 | Difficulty: 5.0/5
-Computer IconCSCI39542 Dec 27th, 2021 50 code hws (not hard hws but 3 weekly), final project & exam, 27 quizzes and each 5th quiz is hackerrank coding (which didn't rlly relate to class topics until complaints). You learn cool stuff with data & python, but workload + final being pass/fail the class is not worth it. TL;DR don't take her if you expect an easy "intro" class/elective.
+CSCI39542 Dec 27th, 2021 50 code hws (not hard hws but 3 weekly), final project & exam, 27 quizzes and each 5th quiz is hackerrank coding (which didn't rlly relate to class topics until complaints). You learn cool stuff with data & python, but workload + final being pass/fail the class is not worth it. TL;DR don't take her if you expect an easy "intro" class/elective.
 
 [Review 37]
 Quality: 1.0/5 | Difficulty: 1.0/5
@@ -162,8 +162,8 @@ CSCI39542 Dec 25th, 2021 omg I got wrinkled because of her class, so much stress
 
 [Review 39]
 Quality: 5.0/5 | Difficulty: 3.0/5
-Computer IconCS3952 Dec 24th, 2021 Interesting class and professor is very fair. Use the textbook to go over the math/statistics used none if it is too difficult or complicated to understand. Very nice to have a lot of programming assignments to practice hands-on rather than just learn concepts.
+CS3952 Dec 24th, 2021 Interesting class and professor is very fair. Use the textbook to go over the math/statistics used none if it is too difficult or complicated to understand. Very nice to have a lot of programming assignments to practice hands-on rather than just learn concepts.
 
 [Review 40]
 Quality: 5.0/5 | Difficulty: 4.0/5
-Computer IconCSCI39542 Dec 22nd, 2021 Professor is kind and introduces material with clearness. Class has a lot of work, but material is not difficult to understand. 50 programming assignments, 2 weekly quizzes (multiple attempts), semester long open-ended project, final with small hackerrank portion. If you put in the work, you should be able to get a good grade and learn data science
+CSCI39542 Dec 22nd, 2021 Professor is kind and introduces material with clearness. Class has a lot of work, but material is not difficult to understand. 50 programming assignments, 2 weekly quizzes (multiple attempts), semester long open-ended project, final with small hackerrank portion. If you put in the work, you should be able to get a good grade and learn data science
