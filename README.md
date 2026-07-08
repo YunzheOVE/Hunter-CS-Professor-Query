@@ -37,7 +37,7 @@ Structure-based chunking: one student review per chunk. Each review is approxima
 None. Each review is a self-contained unit with a clear start and end boundary. There is no information that spans multiple reviews that would require overlap to preserve context.
 
 **Why these choices fit your documents:** 
-Each review is a complete thought about one professor. A single reivew chunk gives a direct and retrievable answer (limited noises, output the best answer). A fixed character chunking would be worse here because a fixed number of 500-character chunk might merge 3 short reviews together which could result in bad output (diluted, doesn't answer the question directly)
+Each review is a complete thought about one professor. A single review chunk gives a direct, retrievable answer with minimal noise. A fixed-character chunking approach would be worse here because a 500-character chunk might merge 3 short reviews together, resulting in diluted output that doesn't answer the question directly.
 
 **Final chunk count:** 
 609 chunks across 13 professor files.
@@ -84,14 +84,14 @@ Each chunk makes sense on its own. A viewer could read any one of them and under
 
 One additional design decision: before embedding each chunk, I prepend the professor's full name and source filename to the text — e.g., `"Professor Melissa Lynch (melissa-lynch.txt): She doesn't reply to emails..."`. This means the embedding encodes the professor's identity as part of the vector signal, which significantly improved name-specific retrieval accuracy. The original review text (without the prefix) is what gets stored and returned to the user.
 
-Overall, this additional design decision help improves retrieval for name-specific queries like "Does Lynch answer emails?". It also showed significant improvement, went from 0.4-0.5 average distance (with embedded identity) to 0.3 average distance (without embedded identity), yielding perfect top-k = 5 relevant chunking.
+Overall, this additional design decision helps improve retrieval for name-specific queries like "Does Lynch answer emails?". It also showed significant improvement: distance went from 0.4–0.5 (without embedded identity) to 0.3 (with embedded identity), yielding perfect top-k = 5 relevant chunking.
 
 **Production tradeoff reflection:** 
 For a real deployment, I would consider switching to OpenAI's `text-embedding-3-small` or a similar API-hosted model. 
 
-Cost(1): the API cost for bigger and smarter model like OpenAI would be higher compared to the `all-MiniLM-L6-v2` which is free.
-Accuracy(2): larger LLM will capture naunced details and synthesis a better and more subjective output especially from informal student reviews. It also allows bigger context, great for long reviews to avoid cut-off.
-Latency(3): local model is limited by CPU speed, while an API model adds network latency in exchange of faster latency on hardware.
+(1) Cost: API costs for a larger model like OpenAI's embeddings would be higher compared to `all-MiniLM-L6-v2`, which is free.
+(2) Accuracy: a larger model would capture more nuanced details and synthesize a more contextually rich output, especially from informal student reviews. It also supports larger context windows, which helps with longer reviews that might otherwise be truncated.
+(3) Latency: the local model is limited by CPU speed, while an API model adds network latency, though hardware processing on the API side is faster.
 
 ---
 
