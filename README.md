@@ -1,7 +1,3 @@
-# The Unofficial Guide — Project 1
-
----
-
 ## Domain
 
 This system covers student reviews of Computer Science professors at Hunter College, sourced from Rate My Professors. This knowledge is valuable because official course descriptions and the college website tell you nothing about a professor's actual teaching style, how fair their exams are, how responsive they are to students, or what grade to realistically expect. Students rely on word-of-mouth and informal reviews to make course registration decisions, but that information is scattered across individual professor pages and hard to search. This system solves that by making the reviews queryable in plain language, returning grounded answers based on real student opinions rather than official course catalog descriptions.
